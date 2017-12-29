@@ -35,6 +35,7 @@ void draw(){
 				cout << "O";
 			}else if(i == fruitY && j == fruitX){
 				cout << "*";
+				cout << "*";a
 			}else{
 				cout << " ";
 			}
